@@ -1,1 +1,1 @@
-# -Sales-Analytics-Dashboard -(Python)
+# Sales-Analytics-Dashboard -(Python)
